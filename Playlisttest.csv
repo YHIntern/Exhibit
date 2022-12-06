@@ -1,18 +1,4 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHScourtyard.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSeastelevationjpg.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSentryextrasky.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/ssfieldentry.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/sslobby.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/2ndfloor.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/3rdfloor.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/LittleSchool.JPG,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/NotforOurselvesAlone.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/SSentrysky.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSField.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSfacadefall.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSmidlevelcirculation.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSportal.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSsteamlabentry.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHScirculationME.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/YHSentry2.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/flowers.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/soccerball.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/YHIntern/Exhibit/raw/main/test/firehydrant.jpg,0:00:10,72:00:00,1/1/18 0:00,12/31/30 23:59,yes
